@@ -1,3 +1,4 @@
 redis:6.0
 mysql:8
 nginx:1.25
+nacos/nacos-server:v2.2.3
