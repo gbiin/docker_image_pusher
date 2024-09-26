@@ -6,4 +6,4 @@ sonatype/nexus3:latest
 twang2218/gitlab-ce-zh:latest
 postgis/postgis:13-3.2
 rabbitmq:3-management-alpine
-
+franklin5/lanproxy-client:latest
