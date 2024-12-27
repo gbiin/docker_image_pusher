@@ -1,8 +1,9 @@
+openjdk:1.8
 #rocketmq:5.3.0
 #skywalking-oap-server:latest
 #skywalking-ui:latest
 # rocketmq-dashboard:latest
-redis:latest
+# redis:latest
 # mysql:8
 # nginx:1.25
 # nacos/nacos-server:v2.2.3
