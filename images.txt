@@ -7,7 +7,7 @@
 # postgis/postgis:13-3.2
 # rabbitmq:3-management-alpine
 # franklin5/lanproxy-client:latest
-rocketmq-dashboard:latest
+# rocketmq-dashboard:latest
 rocketmq:5.3.0
 skywalking-oap-server:latest
 skywalking-ui:latest
