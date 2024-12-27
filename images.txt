@@ -1,4 +1,4 @@
-openjdk:1.8
+openjdk:8
 #rocketmq:5.3.0
 #skywalking-oap-server:latest
 #skywalking-ui:latest
