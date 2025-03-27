@@ -1,15 +1,15 @@
-# skywalking-oap-server:latest
-# skywalking-ui:latest
+skywalking-oap-server:latest
+skywalking-ui:latest
 apache/rocketmq:5.3.0
 apache/rocketmq-dashboard:latest
-# openjdk:8
-# redis:latest
-# mysql:8
-# nginx:1.25
-# nacos/nacos-server:v2.2.3
-# sonatype/nexus3:latest
-# twang2218/gitlab-ce-zh:latest
-# postgis/postgis:13-3.2
-# rabbitmq:3-management-alpine
-# franklin5/lanproxy-client:latest
-
+openjdk:8
+redis:latest
+mysql:8
+nginx:1.25
+nacos/nacos-server:v2.2.3
+sonatype/nexus3:latest
+twang2218/gitlab-ce-zh:latest
+postgis/postgis:13-3.2
+rabbitmq:3-management-alpine
+franklin5/lanproxy-client:latest
+registry.jumpserver.org/public/jumpserver:1.0.0
