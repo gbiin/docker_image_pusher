@@ -12,4 +12,4 @@ twang2218/gitlab-ce-zh:latest
 postgis/postgis:13-3.2
 rabbitmq:3-management-alpine
 franklin5/lanproxy-client:latest
-jumpserver:1.0.0
+jumpserver/jms_all:v4.7.0
