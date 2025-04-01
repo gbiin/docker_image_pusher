@@ -12,5 +12,5 @@
 #jumpserver/jms_all:v4.7.0
 teleport/teleport:latest
 jumpserver/jms_core:v4.7.0
-skywalking-oap-server:latest
-skywalking-ui:latest
+#skywalking-oap-server:latest
+#skywalking-ui:latest
