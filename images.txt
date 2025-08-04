@@ -11,7 +11,7 @@
 #franklin5/lanproxy-client:latest
 #jumpserver/jms_all:v4.7.0
 #jumpserver/jms_core:v4.7.0
-teleport/teleport:latest
+#teleport/teleport:latest
 
 #skywalking-oap-server:latest
 #skywalking-ui:latest
