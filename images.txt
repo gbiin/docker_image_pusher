@@ -15,3 +15,4 @@ teleport/teleport:latest
 
 #skywalking-oap-server:latest
 #skywalking-ui:latest
+canal/canal-admin:v1.1.5
