@@ -15,5 +15,5 @@
 
 #skywalking-oap-server:latest
 #skywalking-ui:latest
-canal/canal-admin:v1.1.5
+#canal/canal-admin:v1.1.5
 openjdk:17
